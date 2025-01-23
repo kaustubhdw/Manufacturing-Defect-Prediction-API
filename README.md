@@ -174,7 +174,3 @@ Save your dataset as `manufacturing_defect_dataset.csv`.
 ## Author
 Kaustubh Dwivedi
 
----
-
-## License
-MIT License
